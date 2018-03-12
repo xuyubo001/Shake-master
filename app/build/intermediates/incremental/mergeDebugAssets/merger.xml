@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config=":library"><source path="E:\project\backup\Shake\Shake-master\library\build\intermediates\bundles\debug\assets"/></dataSet><dataSet config="main"><source path="E:\project\backup\Shake\Shake-master\app\src\main\assets"/><source path="E:\project\backup\Shake\Shake-master\app\build\generated\assets\shaders\debug"/></dataSet><dataSet config="debug"><source path="E:\project\backup\Shake\Shake-master\app\src\debug\assets"/></dataSet></merger>
